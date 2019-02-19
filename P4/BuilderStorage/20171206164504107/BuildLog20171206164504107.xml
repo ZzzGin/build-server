@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<buildLog>
+  <requestID>20171206164504107</requestID>
+  <buildedTimeStamp>12/6/2017 11:45:09 AM</buildedTimeStamp>
+  <buildResult>fail<buildError>c:\Users\zzzgi\OneDrive\Computer Engineering\SoftwareModelingAndAnalysis\p4\P4\BuilderStorage\20171206164504107\Test.cs(3,15) : error CS0535: 'Tests.Test' does not implement interface member 'Tests.ITest.test()'</buildError></buildResult>
+</buildLog>

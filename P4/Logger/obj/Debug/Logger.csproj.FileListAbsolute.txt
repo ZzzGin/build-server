@@ -1,0 +1,6 @@
+C:\Users\zzzgi\OneDrive\Computer Engineering\SoftwareModelingAndAnalysis\p4\P4\Logger\obj\Debug\Logger.csproj.CoreCompileInputs.cache
+C:\Users\zzzgi\OneDrive\Computer Engineering\SoftwareModelingAndAnalysis\p4\P4\Logger\bin\Debug\Logger.dll.config
+C:\Users\zzzgi\OneDrive\Computer Engineering\SoftwareModelingAndAnalysis\p4\P4\Logger\bin\Debug\Logger.dll
+C:\Users\zzzgi\OneDrive\Computer Engineering\SoftwareModelingAndAnalysis\p4\P4\Logger\bin\Debug\Logger.pdb
+C:\Users\zzzgi\OneDrive\Computer Engineering\SoftwareModelingAndAnalysis\p4\P4\Logger\obj\Debug\Logger.dll
+C:\Users\zzzgi\OneDrive\Computer Engineering\SoftwareModelingAndAnalysis\p4\P4\Logger\obj\Debug\Logger.pdb

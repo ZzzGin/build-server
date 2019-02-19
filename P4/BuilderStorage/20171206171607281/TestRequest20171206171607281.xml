@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<buildRequest>
+  <requestID>20171206171607281</requestID>
+  <test>
+    <testDir>../../../BuilderStorage/20171206171607281</testDir>
+    <tested>Out.dll</tested>
+  </test>
+</buildRequest>

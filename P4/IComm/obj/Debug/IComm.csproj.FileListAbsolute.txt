@@ -1,0 +1,6 @@
+C:\Users\zzzgi\OneDrive\Computer Engineering\SoftwareModelingAndAnalysis\p4\P4\IComm\obj\Debug\IComm.csproj.CoreCompileInputs.cache
+C:\Users\zzzgi\OneDrive\Computer Engineering\SoftwareModelingAndAnalysis\p4\P4\IComm\bin\Debug\IComm.dll.config
+C:\Users\zzzgi\OneDrive\Computer Engineering\SoftwareModelingAndAnalysis\p4\P4\IComm\bin\Debug\IComm.dll
+C:\Users\zzzgi\OneDrive\Computer Engineering\SoftwareModelingAndAnalysis\p4\P4\IComm\bin\Debug\IComm.pdb
+C:\Users\zzzgi\OneDrive\Computer Engineering\SoftwareModelingAndAnalysis\p4\P4\IComm\obj\Debug\IComm.dll
+C:\Users\zzzgi\OneDrive\Computer Engineering\SoftwareModelingAndAnalysis\p4\P4\IComm\obj\Debug\IComm.pdb

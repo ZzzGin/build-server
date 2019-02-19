@@ -1,0 +1,16 @@
+C:\Users\zzzgi\OneDrive\Computer Engineering\SoftwareModelingAndAnalysis\p4\P4\CoreBuilder\bin\Debug\CoreBuilder.exe.config
+C:\Users\zzzgi\OneDrive\Computer Engineering\SoftwareModelingAndAnalysis\p4\P4\CoreBuilder\bin\Debug\CoreBuilder.exe
+C:\Users\zzzgi\OneDrive\Computer Engineering\SoftwareModelingAndAnalysis\p4\P4\CoreBuilder\bin\Debug\CoreBuilder.pdb
+C:\Users\zzzgi\OneDrive\Computer Engineering\SoftwareModelingAndAnalysis\p4\P4\CoreBuilder\bin\Debug\FileManager.exe
+C:\Users\zzzgi\OneDrive\Computer Engineering\SoftwareModelingAndAnalysis\p4\P4\CoreBuilder\bin\Debug\Environment.dll
+C:\Users\zzzgi\OneDrive\Computer Engineering\SoftwareModelingAndAnalysis\p4\P4\CoreBuilder\bin\Debug\FileManager.pdb
+C:\Users\zzzgi\OneDrive\Computer Engineering\SoftwareModelingAndAnalysis\p4\P4\CoreBuilder\bin\Debug\FileManager.exe.config
+C:\Users\zzzgi\OneDrive\Computer Engineering\SoftwareModelingAndAnalysis\p4\P4\CoreBuilder\bin\Debug\Environment.pdb
+C:\Users\zzzgi\OneDrive\Computer Engineering\SoftwareModelingAndAnalysis\p4\P4\CoreBuilder\bin\Debug\Environment.dll.config
+C:\Users\zzzgi\OneDrive\Computer Engineering\SoftwareModelingAndAnalysis\p4\P4\CoreBuilder\obj\Debug\CoreBuilder.csprojResolveAssemblyReference.cache
+C:\Users\zzzgi\OneDrive\Computer Engineering\SoftwareModelingAndAnalysis\p4\P4\CoreBuilder\obj\Debug\CoreBuilder.csproj.CoreCompileInputs.cache
+C:\Users\zzzgi\OneDrive\Computer Engineering\SoftwareModelingAndAnalysis\p4\P4\CoreBuilder\obj\Debug\CoreBuilder.exe
+C:\Users\zzzgi\OneDrive\Computer Engineering\SoftwareModelingAndAnalysis\p4\P4\CoreBuilder\obj\Debug\CoreBuilder.pdb
+C:\Users\zzzgi\OneDrive\Computer Engineering\SoftwareModelingAndAnalysis\p4\P4\CoreBuilder\bin\Debug\BuildRequest.exe
+C:\Users\zzzgi\OneDrive\Computer Engineering\SoftwareModelingAndAnalysis\p4\P4\CoreBuilder\bin\Debug\BuildRequest.pdb
+C:\Users\zzzgi\OneDrive\Computer Engineering\SoftwareModelingAndAnalysis\p4\P4\CoreBuilder\bin\Debug\BuildRequest.exe.config

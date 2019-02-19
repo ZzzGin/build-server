@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{9BF68F03-2FC5-42AD-B9DA-4B17E9E149E8}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>TestHarness</RootNamespace>
+    <AssemblyName>TestHarness</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WindowsBase" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="TestHarnessMock.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\FileManager\FileManager.csproj">
+      <Project>{e4d450e5-ea37-4a6a-b96d-a08fa8eeec15}</Project>
+      <Name>FileManager</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\IComm\IComm.csproj">
+      <Project>{4435cf57-9134-407a-8e87-0c14f21e26f6}</Project>
+      <Name>IComm</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\IPluggable\IPluggable.csproj">
+      <Project>{8d1f6c5e-a327-4f54-9976-b8560fc54347}</Project>
+      <Name>IPluggable</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Loader\Loader.csproj">
+      <Project>{20b0ad66-3ed6-4229-85f2-7cb49a7789e0}</Project>
+      <Name>Loader</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Logger\Logger.csproj">
+      <Project>{5bf31436-1bb7-4a8b-aff2-add3bdde086e}</Project>
+      <Name>Logger</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\PluggableComm\PluggableComm.csproj">
+      <Project>{df6e9851-0bb5-4731-bf71-21530f52b8c1}</Project>
+      <Name>PluggableComm</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Tester\Tester.csproj">
+      <Project>{edbdd545-1a1e-444d-a5bc-8057c219ed64}</Project>
+      <Name>Tester</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\TestRequest\TestRequest.csproj">
+      <Project>{ce7fd966-ae71-411d-9950-c555ce3b45da}</Project>
+      <Name>TestRequest</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

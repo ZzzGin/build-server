@@ -1,0 +1,10 @@
+C:\Users\zzzgi\OneDrive\Computer Engineering\SoftwareModelingAndAnalysis\p4\P4\FileManager\obj\Debug\FileManager.csproj.CoreCompileInputs.cache
+C:\Users\zzzgi\OneDrive\Computer Engineering\SoftwareModelingAndAnalysis\p4\P4\FileManager\bin\Debug\FileManager.exe.config
+C:\Users\zzzgi\OneDrive\Computer Engineering\SoftwareModelingAndAnalysis\p4\P4\FileManager\bin\Debug\FileManager.exe
+C:\Users\zzzgi\OneDrive\Computer Engineering\SoftwareModelingAndAnalysis\p4\P4\FileManager\bin\Debug\FileManager.pdb
+C:\Users\zzzgi\OneDrive\Computer Engineering\SoftwareModelingAndAnalysis\p4\P4\FileManager\bin\Debug\Environment.dll
+C:\Users\zzzgi\OneDrive\Computer Engineering\SoftwareModelingAndAnalysis\p4\P4\FileManager\bin\Debug\Environment.pdb
+C:\Users\zzzgi\OneDrive\Computer Engineering\SoftwareModelingAndAnalysis\p4\P4\FileManager\bin\Debug\Environment.dll.config
+C:\Users\zzzgi\OneDrive\Computer Engineering\SoftwareModelingAndAnalysis\p4\P4\FileManager\obj\Debug\FileManager.csprojResolveAssemblyReference.cache
+C:\Users\zzzgi\OneDrive\Computer Engineering\SoftwareModelingAndAnalysis\p4\P4\FileManager\obj\Debug\FileManager.exe
+C:\Users\zzzgi\OneDrive\Computer Engineering\SoftwareModelingAndAnalysis\p4\P4\FileManager\obj\Debug\FileManager.pdb

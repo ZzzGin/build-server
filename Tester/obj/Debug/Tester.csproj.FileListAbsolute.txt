@@ -1,0 +1,13 @@
+C:\Users\zzzgi\OneDrive\Computer Engineering\SoftwareModelingAndAnalysis\p4\P4\Tester\obj\Debug\Tester.csproj.CoreCompileInputs.cache
+C:\Users\zzzgi\OneDrive\Computer Engineering\SoftwareModelingAndAnalysis\p4\P4\Tester\bin\Debug\Tester.exe.config
+C:\Users\zzzgi\OneDrive\Computer Engineering\SoftwareModelingAndAnalysis\p4\P4\Tester\bin\Debug\Tester.exe
+C:\Users\zzzgi\OneDrive\Computer Engineering\SoftwareModelingAndAnalysis\p4\P4\Tester\bin\Debug\Tester.pdb
+C:\Users\zzzgi\OneDrive\Computer Engineering\SoftwareModelingAndAnalysis\p4\P4\Tester\bin\Debug\Loader.dll
+C:\Users\zzzgi\OneDrive\Computer Engineering\SoftwareModelingAndAnalysis\p4\P4\Tester\bin\Debug\Logger.dll
+C:\Users\zzzgi\OneDrive\Computer Engineering\SoftwareModelingAndAnalysis\p4\P4\Tester\bin\Debug\Loader.pdb
+C:\Users\zzzgi\OneDrive\Computer Engineering\SoftwareModelingAndAnalysis\p4\P4\Tester\bin\Debug\Loader.dll.config
+C:\Users\zzzgi\OneDrive\Computer Engineering\SoftwareModelingAndAnalysis\p4\P4\Tester\bin\Debug\Logger.pdb
+C:\Users\zzzgi\OneDrive\Computer Engineering\SoftwareModelingAndAnalysis\p4\P4\Tester\bin\Debug\Logger.dll.config
+C:\Users\zzzgi\OneDrive\Computer Engineering\SoftwareModelingAndAnalysis\p4\P4\Tester\obj\Debug\Tester.csprojResolveAssemblyReference.cache
+C:\Users\zzzgi\OneDrive\Computer Engineering\SoftwareModelingAndAnalysis\p4\P4\Tester\obj\Debug\Tester.exe
+C:\Users\zzzgi\OneDrive\Computer Engineering\SoftwareModelingAndAnalysis\p4\P4\Tester\obj\Debug\Tester.pdb

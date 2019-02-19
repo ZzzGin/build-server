@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<buildLog>
+  <requestID>20171206164334993</requestID>
+  <buildedTimeStamp>12/6/2017 11:43:47 AM</buildedTimeStamp>
+  <buildResult>fail<buildError>c:\Users\zzzgi\OneDrive\Computer Engineering\SoftwareModelingAndAnalysis\p4\P4\BuilderStorage\20171206164334993\Test.cs(11,13) : error CS0103: The name 'TestA' does not exist in the current context</buildError></buildResult>
+</buildLog>

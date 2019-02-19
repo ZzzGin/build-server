@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<buildRequest>
+  <requestID>20171206042609821</requestID>
+  <environment>cs</environment>
+  <test>
+    <testDir>20171206042609821/</testDir>
+    <tested>NavigatorServer.cs</tested>
+    <tested>NavigatorClient.csproj</tested>
+    <tested>MainWindow.xaml.cs</tested>
+    <tested>1.cs</tested>
+    <tested>App.config</tested>
+    <tested>App.xaml</tested>
+    <tested>CodePopUp.xaml</tested>
+  </test>
+</buildRequest>

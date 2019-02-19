@@ -1,0 +1,7 @@
+C:\Users\zzzgi\OneDrive\Computer Engineering\SoftwareModelingAndAnalysis\p4\P4\TestRequest\bin\Debug\TestRequest.exe.config
+C:\Users\zzzgi\OneDrive\Computer Engineering\SoftwareModelingAndAnalysis\p4\P4\TestRequest\bin\Debug\TestRequest.exe
+C:\Users\zzzgi\OneDrive\Computer Engineering\SoftwareModelingAndAnalysis\p4\P4\TestRequest\bin\Debug\TestRequest.pdb
+C:\Users\zzzgi\OneDrive\Computer Engineering\SoftwareModelingAndAnalysis\p4\P4\TestRequest\obj\Debug\TestRequest.csprojResolveAssemblyReference.cache
+C:\Users\zzzgi\OneDrive\Computer Engineering\SoftwareModelingAndAnalysis\p4\P4\TestRequest\obj\Debug\TestRequest.csproj.CoreCompileInputs.cache
+C:\Users\zzzgi\OneDrive\Computer Engineering\SoftwareModelingAndAnalysis\p4\P4\TestRequest\obj\Debug\TestRequest.exe
+C:\Users\zzzgi\OneDrive\Computer Engineering\SoftwareModelingAndAnalysis\p4\P4\TestRequest\obj\Debug\TestRequest.pdb

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<buildLog>
+  <requestID>20171206173300329</requestID>
+  <buildedTimeStamp>12/6/2017 12:33:10 PM</buildedTimeStamp>
+  <buildResult>fail<buildError>c:\Users\zzzgi\OneDrive\Computer Engineering\SoftwareModelingAndAnalysis\p4\P4\BuilderStorage\20171206173300329\TestC.cs(19,33) : error CS0117: 'Tests.TestB_fail' does not contain a definition for 'testing'</buildError></buildResult>
+</buildLog>

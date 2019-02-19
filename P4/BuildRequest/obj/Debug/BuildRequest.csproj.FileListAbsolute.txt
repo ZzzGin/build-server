@@ -1,0 +1,7 @@
+C:\Users\zzzgi\OneDrive\Computer Engineering\SoftwareModelingAndAnalysis\p4\P4\BuildRequest\bin\Debug\BuildRequest.exe.config
+C:\Users\zzzgi\OneDrive\Computer Engineering\SoftwareModelingAndAnalysis\p4\P4\BuildRequest\bin\Debug\BuildRequest.exe
+C:\Users\zzzgi\OneDrive\Computer Engineering\SoftwareModelingAndAnalysis\p4\P4\BuildRequest\bin\Debug\BuildRequest.pdb
+C:\Users\zzzgi\OneDrive\Computer Engineering\SoftwareModelingAndAnalysis\p4\P4\BuildRequest\obj\Debug\BuildRequest.csproj.CoreCompileInputs.cache
+C:\Users\zzzgi\OneDrive\Computer Engineering\SoftwareModelingAndAnalysis\p4\P4\BuildRequest\obj\Debug\BuildRequest.exe
+C:\Users\zzzgi\OneDrive\Computer Engineering\SoftwareModelingAndAnalysis\p4\P4\BuildRequest\obj\Debug\BuildRequest.pdb
+C:\Users\zzzgi\OneDrive\Computer Engineering\SoftwareModelingAndAnalysis\p4\P4\BuildRequest\obj\Debug\BuildRequest.csprojResolveAssemblyReference.cache

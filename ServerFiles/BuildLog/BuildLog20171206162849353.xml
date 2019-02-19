@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<buildLog>
+  <requestID>20171206162849353</requestID>
+  <buildedTimeStamp>12/6/2017 11:41:54 AM</buildedTimeStamp>
+  <buildResult>fail<buildError>c:\Users\zzzgi\OneDrive\Computer Engineering\SoftwareModelingAndAnalysis\p4\P4\BuilderStorage\20171206162849353\Test.cs(3,15) : error CS0535: 'Tests.Test' does not implement interface member 'Tests.ITest.id()'</buildError></buildResult>
+</buildLog>embly reference?)</buildError></buildResult>
+</buildLog>torage\20171206162849353\TestA_success.cs(16,1) : error CS1022: Type or namespace definition, or end-of-file expected</buildError></buildResult>
+</buildLog>ring\SoftwareModelingAndAnalysis\p4\P4\BuilderStorage\20171206162849353\ITest.cs(45,20) : error CS0101: The namespace 'Tests' already contains a definition for 'ITest'</buildError></buildResult>
+</buildLog>

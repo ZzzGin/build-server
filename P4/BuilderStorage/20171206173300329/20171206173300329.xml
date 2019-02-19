@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<buildRequest>
+  <requestID>20171206173300329</requestID>
+  <environment>cs</environment>
+  <test>
+    <testDir>20171206173300329/</testDir>
+    <tested>ITest.cs</tested>
+    <tested>TestC.cs</tested>
+    <tested>TestC_BuildFail.cs</tested>
+  </test>
+</buildRequest>

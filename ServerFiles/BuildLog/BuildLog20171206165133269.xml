@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<buildLog>
+  <requestID>20171206165133269</requestID>
+  <buildedTimeStamp>12/6/2017 11:51:54 AM</buildedTimeStamp>
+  <buildResult>fail<buildError>c:\Users\zzzgi\OneDrive\Computer Engineering\SoftwareModelingAndAnalysis\p4\P4\BuilderStorage\20171206165133269\Test.cs(15,2) : error CS1022: Type or namespace definition, or end-of-file expected</buildError></buildResult>
+</buildLog>

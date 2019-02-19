@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<buildRequest>
+  <requestID>20171206050727930</requestID>
+  <environment>cs</environment>
+  <test>
+    <testDir>20171206050727930/</testDir>
+    <tested>Interfaces.cs</tested>
+    <tested>TestedLib.cs</tested>
+    <tested>TestedLibDependency.cs</tested>
+    <tested>TestLib.cs</tested>
+  </test>
+</buildRequest>
